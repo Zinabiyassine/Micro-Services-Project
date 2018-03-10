@@ -1,0 +1,12 @@
+/home/yassine/usine/Projet-usine-logicielle-microservices/a-proxy-service/src/main/java/org/opendevup/swagger/SwaggerConfig.java
+/home/yassine/usine/Projet-usine-logicielle-microservices/a-proxy-service/src/main/java/org/opendevup/AProxyServiceApplication.java
+/home/yassine/usine/Projet-usine-logicielle-microservices/a-proxy-service/src/main/java/org/opendevup/clients/enseignantClient.java
+/home/yassine/usine/Projet-usine-logicielle-microservices/a-proxy-service/src/main/java/org/opendevup/entities/Service.java
+/home/yassine/usine/Projet-usine-logicielle-microservices/a-proxy-service/src/main/java/org/opendevup/restcontroller/ProxyGatewayRestService.java
+/home/yassine/usine/Projet-usine-logicielle-microservices/a-proxy-service/src/main/java/org/opendevup/entities/Diplome.java
+/home/yassine/usine/Projet-usine-logicielle-microservices/a-proxy-service/src/main/java/org/opendevup/clients/serviceClient.java
+/home/yassine/usine/Projet-usine-logicielle-microservices/a-proxy-service/src/main/java/org/opendevup/clients/FeignExample.java
+/home/yassine/usine/Projet-usine-logicielle-microservices/a-proxy-service/src/main/java/org/opendevup/clients/IntegrationClient.java
+/home/yassine/usine/Projet-usine-logicielle-microservices/a-proxy-service/src/main/java/org/opendevup/entities/proxy.java
+/home/yassine/usine/Projet-usine-logicielle-microservices/a-proxy-service/src/main/java/org/opendevup/entities/Enseignant.java
+/home/yassine/usine/Projet-usine-logicielle-microservices/a-proxy-service/src/main/java/org/opendevup/clients/diplomeClient.java

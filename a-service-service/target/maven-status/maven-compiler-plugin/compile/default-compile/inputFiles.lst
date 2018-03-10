@@ -1,0 +1,6 @@
+/home/yassine/usine/Projet-usine-logicielle-microservices/a-service-service/src/main/java/com/example/demo/repository/ServiceRepository.java
+/home/yassine/usine/Projet-usine-logicielle-microservices/a-service-service/src/main/java/com/example/demo/entity/Service.java
+/home/yassine/usine/Projet-usine-logicielle-microservices/a-service-service/src/main/java/com/example/demo/repository/ServiceConfigJson.java
+/home/yassine/usine/Projet-usine-logicielle-microservices/a-service-service/src/main/java/com/example/demo/restcontroller/ServiceRestController.java
+/home/yassine/usine/Projet-usine-logicielle-microservices/a-service-service/src/main/java/com/example/demo/swagger/SwaggerConfig.java
+/home/yassine/usine/Projet-usine-logicielle-microservices/a-service-service/src/main/java/com/example/demo/ServiceServiceApplication.java
