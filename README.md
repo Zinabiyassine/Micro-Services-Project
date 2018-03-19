@@ -2,8 +2,8 @@
 ![imagemicro](https://user-images.githubusercontent.com/34307997/37597626-3faf530a-2b80-11e8-9a10-b834c537c279.png)
 
 ## Utilisation
-* Dans le cas d'un changement dans les services un script *mvn.sh* est proposé pour la generation des nouveaux Jar
-* le docker compose est executé grace à la commande *docker-compose up*
+* Dans le cas d'un changement dans les services un script **mvn.sh** est proposé pour la generation des nouveaux jars.
+* le docker compose est executé grace à la commande **docker-compose up**.
 
 ## La liste des URL des services:
 
