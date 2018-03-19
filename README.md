@@ -14,3 +14,6 @@
 * PROXY-SERVICE: http://localhost:9999/
 
 * FRONT ANGULAR: http://localhost:4200
+## Affichage avec Swagger des mappings disponibles
+
+* PROXY-SERVICE: http://localhost:9999/swagger-ui.html
